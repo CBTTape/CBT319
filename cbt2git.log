@@ -1,0 +1,5 @@
+2023-08-06 02:54:14.868035 - Initialized conversion of CBT319
+2023-08-06 02:54:14.897455 - Received CBT.V505.FILE319.PDS from FILE319.XMI 
+2023-08-06 02:54:14.899847 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE319.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:54:14.900891 - Found @FILE319.txt (text/plain) in CBT.V505.FILE319.PDS, moved to PDS/@FILE319
+2023-08-06 02:54:14.901897 - Found SMF1415.txt (text/plain) in CBT.V505.FILE319.PDS, moved to PDS/SMF1415
